@@ -5,8 +5,13 @@
 	Created by Lincoln Touw
 	V1.1 6/16/2025
 	V1.0 9/16/2024 		 	 			
-	 
-	--- LJPackageManager Information: ---	 
+	 	
+	---------------------
+	
+	## LJPM created by Lincoln Touw 6/03/2025	
+	## https://lincolntouw.github.io/ljpm-rbx			
+	
+	--- LJPackageManager Information: --- 
 	<ModuleName>TokenCircle</ModuleName>
 	<ModuleAuthor>Lincoln Touw</ModuleAuthor>	 
 	<ModuleVersion>1.1</ModuleVersion>	
