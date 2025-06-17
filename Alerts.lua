@@ -31,8 +31,8 @@
 			<Version>2.5</Version>		
 		</Package> 
 		<Package>
-			<Name>Helpful Errors</Name> 		
-			<Version>1.0</Version>		
+			<Name>BetterErrors</Name> 		
+			<Version>1.1</Version> 			
 		</Package> 
 	</PackageDependencies>	 			
 	
