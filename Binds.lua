@@ -17,8 +17,8 @@ function Binds:BindTo(Category: string, f: () -> ()): RBXScriptConnection
 end;   
 
 function Binds:FireCategory(Category: string, ...: any): () 	
-	task.spawn(function(...): ()
-		for _, f: ()->() in list[Category] do f(...); end;	
+	task.spawn(function(...): ()	 
+		for _, f: ()->() in list[Category] or {} do f(...); end;	
 	end, ...); 		
 end;	
 
